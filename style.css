@@ -1,0 +1,83 @@
+.nav-custom {
+    background-color: #262626;
+}
+
+.nav-header {
+    background-color: #1C1A19;
+    height: 800px;
+}
+
+.works {
+    background-color: whitesmoke;
+    height: 300px;
+}
+
+.list-group-item {
+    background-color: #1C1A19;
+}
+
+.content-holder {
+    color: white;
+    height: 800px;
+}
+
+.title-header {
+    color: #FF6B00;
+}
+
+.img-background {
+    background: url("img/Illustration-header@2x.png");
+    color: orange;
+}
+
+.partition {
+    height: 200px;
+}
+
+.line {
+    width: 100%;
+}
+
+.place-holder {
+    width: 100%;
+}
+
+.content-section-2 {
+    background-color: indianred;
+}
+
+.card-section{
+    margin: 0;
+}
+
+.multi-purpose-section {
+    margin-bottom: 100px;
+}
+
+.card-custom {
+    width: 500px;
+}
+
+.about-me {
+    padding-top: 200px;
+    background-color: #262626;
+    height: 800px;
+}
+
+.about-me-content {
+    color: white;
+}
+
+.line-about-me {
+width: 100%;
+padding: 100px 0;
+}
+
+.footer {
+    margin: 120px 0;
+    min-height: 200px;
+}
+
+.social-footer{
+    min-height: 30px;
+}
